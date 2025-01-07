@@ -454,7 +454,9 @@ docker rmi nginx-docker
 
 #### Integration with workflow managers
 
-Workflow managers are essential tools to develop computational projects. See how containers seamlessly integrate with both [Snakemake](https://snakemake.readthedocs.io/en/stable/snakefiles/deployment.html#running-jobs-in-containers) and [Nextflow](https://www.nextflow.io/docs/latest/container.html) to achieve reproducibility and portability of your projects
+Workflow managers are essential tools to develop computational projects. See how containers seamlessly integrate with both [Snakemake](https://snakemake.readthedocs.io/en/stable/snakefiles/deployment.html#running-jobs-in-containers) and [Nextflow](https://www.nextflow.io/docs/latest/container.html) to achieve reproducibility and portability of your projects.
+
+See [https://github.com/alussana/nf-project-template](https://github.com/alussana/nf-project-template) for a well-tested project template that you can use to start, grow, share, and publish bioinformatics/data science projects of any size. 
 
 #### Compose and Swarm
 
